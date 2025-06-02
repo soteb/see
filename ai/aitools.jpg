@@ -1,6 +1,6 @@
 DOMAIN-SUFFIX,cursor.sh
 DOMAIN-SUFFIX,cursor.com
-# DOMAIN-SUFFIX,dify.ai
+DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,substackcdn.com
@@ -12,3 +12,5 @@ DOMAIN-SUFFIX,skywork.ai
 DOMAIN-SUFFIX,medicalnewstoday.com
 DOMAIN-SUFFIX,ledger.com
 DOMAIN-SUFFIX,resilio.com
+# dev
+DOMAIN-SUFFIX,substack.com
