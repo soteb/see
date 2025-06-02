@@ -21,6 +21,8 @@ DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,civitai.com
+DOMAIN-SUFFIX,midjourney.com
+DOMAIN-SUFFIX,huggingface.co
 # dev
 DOMAIN-SUFFIX,substack.com
 # python开发
