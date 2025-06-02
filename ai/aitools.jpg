@@ -18,6 +18,9 @@ DOMAIN-SUFFIX,gptstore.ai
 DOMAIN-SUFFIX,flowgpt.com
 DOMAIN-SUFFIX,lmsys.org
 DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,quora.com
+DOMAIN-SUFFIX,civitai.com
 # dev
 DOMAIN-SUFFIX,substack.com
 # python开发
