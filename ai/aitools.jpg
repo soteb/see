@@ -14,5 +14,13 @@ DOMAIN-SUFFIX,ledger.com
 DOMAIN-SUFFIX,resilio.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,hume.ai
+DOMAIN-SUFFIX,gptstore.ai
+DOMAIN-SUFFIX,flowgpt.com
+DOMAIN-SUFFIX,lmsys.org
+DOMAIN-SUFFIX,perplexity.ai
 # dev
 DOMAIN-SUFFIX,substack.com
+# python开发
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,pythonhosted.org
+DOMAIN-SUFFIX,formulae.brew.sh
