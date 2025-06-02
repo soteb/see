@@ -1,0 +1,5 @@
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.site
+# 分析服务商
+DOMAIN-SUFFIX,amplitude.com
