@@ -1,6 +1,8 @@
 # GPT 常规
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chat.com
 # 验证框架
 DOMAIN-SUFFIX,auth0.com
 # 验证码系统
@@ -14,3 +16,6 @@ DOMAIN-SUFFIX,prodregistryv2.org
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,sora.com
+# GPT其他
+DOMAIN-SUFFIX,askyourpdf.com
+DOMAIN-SUFFIX,livekit.cloud
